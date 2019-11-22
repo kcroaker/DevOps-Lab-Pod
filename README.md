@@ -9,3 +9,7 @@ Please submit your solution with the following
 It should take no more that 30 minutes to fix. 
 
 [Start] 6:03pm
+[Finish] 6:41pm
+
+Screenshot:
+![screenshot of successful page load](https://raw.githubusercontent.com/kcroaker/DevOps-Lab-Pod/master/spaceship.complete.jpg)
