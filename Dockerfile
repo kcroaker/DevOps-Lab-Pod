@@ -13,4 +13,5 @@ RUN apk update && \
     rm -rf /var/cache/apk/* && \
     apk add curl
 
+EXPOSE 8080
 CMD ["/app"]
